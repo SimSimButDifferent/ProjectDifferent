@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimSimButDifferent
 - 👀 I’m interested in Crypto trading/investing and skateboarding.
 - 🌱 I’m currently learning Solidity and Python.
-- 💞️ I’m looking to collaborate on ... Anything right now
+- 💞️ I’m looking to collaborate on ... Anything that will enhance my coding skills and knowledge.
 - 📫 How to reach me ... simeon.campbell@live.com // simeon.h.campbell@gmail.com
 
 <!---
